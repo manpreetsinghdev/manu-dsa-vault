@@ -30,4 +30,18 @@ manu-dsa-vault/
 ## 📈 Progress
 
 ### Arrays
-- ✅ Three Sum
+Two Pointer Pattern:-
+      - ✅ Three Sum
+      - ✅ Move Zeros
+      - ✅ Sort Colors
+      - ✅ Container With Most Water
+      
+Sliding Window Pattern:-
+      - ✅ Max Consecutive Ones
+      - ✅ Max Consecutive Ones III
+
+Prefix Sum Pattern:-
+      - ✅ Find Pivot Index 
+      
+
+      
